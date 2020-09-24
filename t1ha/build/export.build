@@ -1,0 +1,6 @@
+$out_root/
+{
+  include t1ha/
+}
+
+export $out_root/t1ha/lib{t1ha}

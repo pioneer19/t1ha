@@ -1,0 +1,16 @@
+: 1
+name: t1ha
+version: 2.1.3
+upstream-version: 2.1.3
+project: t1ha
+summary: t1ha - one of the fastest hash functions library
+license: Zlib
+topics: C, data hash
+description-file: README.md
+url: https://github.com/erthink/t1ha
+package-url: https://github.com/build2-packaging/t1ha/
+email: Leonid Yuriev <leo@yuriev.ru>
+package-email: pioneer19@post.cz
+builds: all
+depends: * build2 >= 0.13.0
+depends: * bpkg >= 0.13.0

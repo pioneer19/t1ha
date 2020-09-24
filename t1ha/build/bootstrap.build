@@ -1,0 +1,7 @@
+project = t1ha
+
+using version
+using config
+using dist
+using test
+using install
